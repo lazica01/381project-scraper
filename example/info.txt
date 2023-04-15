@@ -1,0 +1,4 @@
+Ukupno: 5473
+Prazne: 465
+Sa Brojem: 5008
+Greske: 0
